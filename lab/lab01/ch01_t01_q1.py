@@ -1,5 +1,9 @@
 def main():
     # Remove pass with your answer.
+
+
+
+    
     print("is not divisible by 10 or divisible by 3")
     print("is divisible by 10 and not divisible by 3")
 
