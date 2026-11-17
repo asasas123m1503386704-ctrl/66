@@ -7,7 +7,7 @@ def main():
         except ValueError:
             print("Please enter an interger")   
     if x % 10 == 0 and x % 3 !=0:
-         
+      print("yes")   
 
 
     print(f"{x}is not divisible by 10 or divisible by 3")
