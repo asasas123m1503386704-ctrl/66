@@ -3,7 +3,8 @@ def main():
     while True:
         try:
             x = int(input("Type an integer:"))
-            
+        except ValueError:
+            print("Please enter an interger")    
 
 
 
