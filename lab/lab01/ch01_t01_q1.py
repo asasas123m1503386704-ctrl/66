@@ -2,7 +2,7 @@ def main():
     # Remove pass with your answer.
     while True:
         try:
-            x = int(input("Type an integer"))
+            x = int(input("Type an integer:"))
 
 
 
