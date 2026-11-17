@@ -6,7 +6,7 @@ def main():
         except ValueError:
             print("Please enter an interger")    
     print(f"{x}is not divisible by 10 or divisible by 3")
-    print("is divisible by 10 and not divisible by 3")
+    print(f"is divisible by 10 and not divisible by 3")
 
 
 if __name__ == "__main__":
