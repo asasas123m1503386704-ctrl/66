@@ -1,6 +1,6 @@
 def main():
     # Remove pass with your answer.
-    print()
+    print("is not divisible by 10 or divisible by 3")
 
 
 if __name__ == "__main__":
