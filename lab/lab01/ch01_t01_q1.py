@@ -3,6 +3,7 @@ def main():
     while True:
         try:
             x = int(input("Type an integer:"))
+            break
         except ValueError:
             print("Please enter an interger")    
     print(f"{x}is not divisible by 10 or divisible by 3")
